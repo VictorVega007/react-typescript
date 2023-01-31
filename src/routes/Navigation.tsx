@@ -28,6 +28,7 @@ export const Navigation = () => {
           <Route path="/*" element={<Navigate to="/home" replace />}></Route>
         </Routes>
       </div>
+      <div></div>
     </BrowserRouter>
   );
 };
