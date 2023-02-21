@@ -1,6 +1,6 @@
 import { BrowserRouter, Navigate, NavLink, Route, Routes } from "react-router-dom";
 import logo from "../logo.svg";
-import { ShoopingPage } from "../02-component-pattern/components/ShoopingPage";
+import { ShoopingPage } from "../02-component-pattern/pages/ShoopingPage";
 
 export const Navigation = () => {
   return (
